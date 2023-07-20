@@ -1,2 +1,2 @@
 # TextRPG
-Игра представлена в текстовом формате и все события в ней происходят внутри терминала.
+The game is presented in text format and all events in it take place inside the terminal.
